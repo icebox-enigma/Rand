@@ -1,0 +1,74 @@
+[
+    {
+		"Brand": "Acer",
+		"ProductType": "Laptop",
+		"ProductName": "Acer Nitro 17 Gaming",
+		"ScreenSize": 17.3,
+		"RAM": "16 GB",
+		"HardDiskSize": "1 TB",
+		"Color": "Black",
+		"CpuModel": "AMD Ryzen 7",
+		"Description": "Go full throttle with the Acer Nitro 17 gaming laptop featuring the latest AMD Ryzen 7000 Series Processors and NVIDIAs DLSS 3 technology * whether playing casually or ranking up online. The picture-perfect 17.3-inch QHD display with 165Hz refresh rates provides an immersive viewing experience while next-gen cooling, a 4-zone RGB keyboard and NitroSense software let you take command of the playing field. AMD Ryzen 7000 Series: Now featuring the AMD Ryzen 7 7735HS Octa-Core Processor delivering superior gaming performance where you need it most. With Precision Boost, get up to 4.75GHz for your high-demand games. Beyond Fast: The NVIDIA GeForce RTX 4070 Laptop GPU is beyond fast for gamers and creators. They're powered by the ultra-efficient NVIDIA Ada Lovelace architecture which delivers a quantum leap in both performance and AI-powered graphics.",
+		"Price": 1999.99
+	},
+	{
+		"Brand": "Alienware",
+		"ProductType": "Laptop",
+		"ProductName": "Alienware X16 R1 Gaming",
+		"ScreenSize": 16,
+		"RAM": "32 GB",
+		"HardDiskSize": "1 TB",
+		"Color": "Black",
+		"CpuModel": "Core i9",
+		"Description": "Alienware X16 R1 Gaming Laptop - 16-inch QHD+ 240Hz Display, Core i9-13900HK, 32GB LPDDR5 RAM, 1TB SSD, NVIDIA GeForce RTX 4080 12GB GDDR6, Windows 11 Home, 1 Year Premium Support * Lunar Silver.",
+		"Price": 3299.99
+	},
+	{
+		"Brand": "ASUS",
+		"ProductType": "Laptop",
+		"ProductName": "ASUS G614JI-AS94 ROG Strix G16 (2023) Gaming",
+		"ScreenSize": 16,
+		"RAM": "16 GB",
+		"HardDiskSize": "1 TB",
+		"Color": "Black",
+		"CpuModel": "Intel Core i9",
+		"Description": "POWER UP YOUR PLAY - Draw more frames and win more games with Windows 11, a 13th Gen Intel Core i9-13980HX processor, and an NVIDIA GeForce RTX 4070 Laptop GPU at 140W Max TGP. BLAZING FAST MEMORY AND STORAGE * Multitask swiftly with 16GB of DDR5-4800MHz memory and speed up loading times with 1TB of PCIe 4x4. ROG INTELLIGENT COOLING * To put this amount of power in a gaming laptop, you need an even better cooling solution. The Strix features Thermal Grizzlys Conductonaut Extreme liquid metal on the CPU, and a third intake fan among other premium features, to allow for better sustained performance over long gaming sessions. SWIFT VISUALS * The Strix G16 has a fast FHD 165Hz panel to make sure you never miss a moment. It also covers 100% of the sRGB color space and feature Dolby Vision, Adaptive-Sync support, and an 90% screen-to-body ratio for a stellar gaming and viewing experience.",
+		"Price": 1999.99
+	},
+	{
+		"Brand": "CyberpowerPC",
+		"ProductType": "Desktop",
+		"ProductName": "CyberpowerPC Gamer Xtreme VR Gaming PC",
+		"ScreenSize": 1,
+		"RAM": "16 GB",
+		"HardDiskSize": "1 TB",
+		"Color": "Black",
+		"CpuModel": "Intel Core i9",
+		"Description": "System: Intel Core i9-13900KF 3.0GHz (8+16) Cores | Intel Z690 Chipset | 16GB DDR5 | 1TB PCIe NVMe SSD | Genuine Windows 11 Home 64-bit. Graphics: NVIDIA GeForce RTX 4070 Ti 12GB Video Card | 1x HDMI | 2x DisplayPorts. Connectivity: 6 x USB 3.1 | 2 x USB 2.0 | 1x RJ-45 Network Ethernet 10/100/1000 | 802.11AC Wi-Fi | Audio: 7.1 Channel | Keyboard and mouse. Special feature: Liquid cool CPU | 3-Piece Panoramic Tempered Glass Front/Side Case Panel | Custom RGB Case Lighting | USB Gaming Keyboard | 7 Colors RGB Gaming Mouse.",
+		"Price": 2299.99
+	},
+	{
+		"Brand": "Skytech Gaming",
+		"ProductType": "Desktop",
+		"ProductName": "Skytech Chronos Gaming PC",
+		"ScreenSize": 1,
+		"RAM": "16 GB",
+		"HardDiskSize": "1 TB",
+		"Color": "Black",
+		"CpuModel": "Ryzen 5",
+		"Description": "AMD Ryzen 5 5600X 3.7GHz (4.6GHz Max Boost) CPU Processor | 1TB NVME SSD * Up to 30x Faster Than Traditional HDD. NVIDIA Geforce RTX 4070 Ti 12GB GDDR6X Graphics Card (Brand may vary) | 16GB DDR4 RAM 3200 Gaming Memory with Heat Spreader | Windows 11 Home 64-bit. 802.11 AC | No Bloatware | Graphic output options include 1 x HDMI, and 1 x Display Port Guaranteed, Additional Ports may vary | USB Ports Including 2.0, 3.0, and 3.2 Gen1 Ports | HD Audio and Mic | Free Gaming Keyboard and Mouse.",
+		"Price": 1799.99
+	},
+	{
+		"Brand": "HP",
+		"ProductType": "Desktop",
+		"ProductName": "OMEN 45L Gaming",
+		"ScreenSize": 17.3,
+		"RAM": "16 GB",
+		"HardDiskSize": "1 TB",
+		"Color": "Black",
+		"CpuModel": "Intel Core i7",
+		"Description": "The 13th Gen Intel Core Processor advances real-world computing and delivers more ultra-efficient multi-tasking. FAST FOR GAMERS AND CREATORS * Experience lifelike virtual worlds, ultra-high FPS gaming, revolutionary new ways to create and unprecedented workflow acceleration. DTS: X ULTRA TECHNOLOGY - By producing authentic, spatially accurate 3D sound through any headset, this technology offers specially tuned audio modes for different game types to provide immersion for the best entertainment experience possible. KINGSTON FURY DDR5 MEMORY - With its high performance, everything from multi-tasking to playing games gets a boost. EFFORTLESSLY CONNECTED - Enjoy faster speeds, improved performance and greater capacity with Wi-Fi 6 and Bluetooth 5.3 wireless card. OMEN CRYO CHAMBER - Experience revolutionary cooling from the patented OMEN CRYO CHAMBER cooling system that enables the liquid cooler radiator to channel fresh, cold air from the surrounding environment to cool down the CPU.",
+		"Price": 2199.99
+	}
+]
